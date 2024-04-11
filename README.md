@@ -1,4 +1,4 @@
-# Foodie: Online Food Ordering Website
+# eFoodie: Online Food Ordering Website
 
 This project is a food ordering website with added features for browsing menus, placing orders, and real-time chat support. It is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
